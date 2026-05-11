@@ -1,10 +1,24 @@
 # BUAN 390 Final Project — AI Adoption & Revenue Growth
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Braden357/buan390-final/blob/main/notebooks/analysis.ipynb)
-
 **Course:** BUAN/ECON 390 — Business Analytics  
 **Option:** A — Prediction-Based Analysis  
 **Group members:** Braden Flynn · Mariano Del Castillo · Josh Mora
+
+---
+
+## 📦 Submission — Download Everything Here
+
+**All files are in the [`submission/`](submission/) folder.** Download that folder and submit.
+
+| File | Description |
+|---|---|
+| [`submission/analysis.ipynb`](submission/analysis.ipynb) | Python notebook — fully executed |
+| [`submission/report.docx`](submission/report.docx) | Written report — 8 figures embedded |
+| [`submission/ai_company_adoption.csv`](submission/ai_company_adoption.csv) | Dataset (150k rows) |
+| [`submission/TABLEAU_LINK.txt`](submission/TABLEAU_LINK.txt) | Tableau Public link |
+| [Tableau Dashboard](https://public.tableau.com/app/profile/joshua.mora4180/viz/BUAN390-AI-Revenue-Growth/Dashboard1) | Built by Joshua Mora |
+
+> To download: click **Code → Download ZIP** at the top of this page, then grab the files from `submission/`.
 
 ---
 
@@ -12,11 +26,11 @@
 
 | Deliverable | Owner | Status |
 |---|---|---|
-| `notebooks/analysis.ipynb` | Braden | ✅ Complete — executed, all outputs saved |
-| `report/report.docx` | Braden | ✅ Complete — 8 figures embedded, ready to submit |
-| `dataset/ai_company_adoption.csv` | — | ✅ In repo |
-| Tableau Public dashboard | **Mariano / Josh** | ✅ Complete — [view dashboard](https://public.tableau.com/app/profile/joshua.mora4180/viz/BUAN390-AI-Revenue-Growth/Dashboard1) |
-| Peer evaluation | Everyone | Due same day — instructor provides form |
+| `analysis.ipynb` | Braden | ✅ Complete |
+| `report.docx` | Braden | ✅ Complete |
+| `ai_company_adoption.csv` | — | ✅ In repo |
+| Tableau Public dashboard | Mariano / Josh | ✅ [View dashboard](https://public.tableau.com/app/profile/joshua.mora4180/viz/BUAN390-AI-Revenue-Growth/Dashboard1) |
+| Peer evaluation | Everyone | Instructor provides form |
 
 **Submit:** notebook + report + CSV + Tableau link
 
