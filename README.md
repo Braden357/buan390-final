@@ -15,7 +15,7 @@
 | `notebooks/analysis.ipynb` | Braden | ✅ Complete — executed, all outputs saved |
 | `report/report.docx` | Braden | ✅ Complete — 8 figures embedded, ready to submit |
 | `dataset/ai_company_adoption.csv` | — | ✅ In repo |
-| Tableau Public dashboard | **Mariano / Josh** | ⏳ Needs to be built — see instructions below |
+| Tableau Public dashboard | **Mariano / Josh** | ✅ Complete — [view dashboard](https://public.tableau.com/app/profile/joshua.mora4180/viz/BUAN390-AI-Revenue-Growth/Dashboard1) |
 | Peer evaluation | Everyone | Due same day — instructor provides form |
 
 **Submit:** notebook + report + CSV + Tableau link
@@ -124,7 +124,7 @@ Or click the **Open in Colab** badge above. Runtime → Run all. (~20 min due to
 | `notebooks/analysis.ipynb` | Main analysis — executed with all outputs |
 | `dataset/ai_company_adoption.csv` | Source dataset (150k rows, Kaggle) |
 | `report/report.docx` | Written business report with 8 embedded figures |
-| Tableau Public | *(paste link here after publishing)* |
+| [Tableau Public Dashboard](https://public.tableau.com/app/profile/joshua.mora4180/viz/BUAN390-AI-Revenue-Growth/Dashboard1) | Interactive dashboard by Joshua Mora |
 
 ---
 
